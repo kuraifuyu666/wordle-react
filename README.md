@@ -13,7 +13,7 @@ un projet développé avec **React** dans le cadre d’un module de formation su
 1. Clone le dépôt :
    ```bash
    git clone https://github.com/kuraifuyu666/wordle-react.git
-   cd pokedex-react
+   cd wordle-react
    ```
 
 2. Installe les dépendances :
